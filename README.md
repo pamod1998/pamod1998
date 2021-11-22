@@ -3,7 +3,7 @@
 #### I'm Pamod Akalanka and here's a little about me:
 
 - I'm a student pursuing BIT (Bachelor of Information Technology).
-- 🔭 I’m intereting in codeing.
+- 🔭 I’m interesting in codeing.
 - 🌱 I’m currently Learing React js.
 - 🤔 I love to play with React,JavaScrpit,Angular.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pamod-akalanka/)
